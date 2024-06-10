@@ -900,7 +900,7 @@
 @media all and (max-width: 1200px) {
   .service {
     min-width: min-content;
-    font-size: 60%;
+    font-size: 80%;
   }
 
   .picture {

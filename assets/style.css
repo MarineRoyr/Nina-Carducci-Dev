@@ -108,12 +108,20 @@ h2 {text-align: center;
 .gallery .nav {
   justify-content: center;
 }
+
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
-  color: #fff;
+  color: #000;
   background-color: #beb45a;
   border-radius: 0;
 }
+
+.active-tag {
+  background-color: #beb45a;
+}
+
+
+
 .nav-pills .nav-link {
   color: #000;
 }
